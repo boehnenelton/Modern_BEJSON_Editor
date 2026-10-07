@@ -47,6 +47,7 @@
 - [Security Policy & Data Integrity](#security-policy--data-integrity)
 - [Development & Contribution Guidelines](#development--contribution-guidelines)
 - [Closing Summary](#closing-summary)
+- [Polyglot License](#polyglot-license)
 
 ![01 Hub Dark Theme](images/01_hub_dark_theme.png)
 
@@ -260,6 +261,19 @@ python3 dev/stamp_csp.py Modern_BEJSON_Editor_104_ONLY.html
 ## Closing Summary
 
 The **Modern BEJSON Editor (104-Only Build)** delivers a robust, secure, and privacy-focused environment for managing local data structures and MFDB databases. It stands as a production-ready, dependency-free reference implementation of Elton Boehnen's BEJSON format specifications.
+
+---
+
+## Polyglot License
+
+This repository is distributed under a **Polyglot Open-Source License Model** to maximize interoperability across programming runtimes, technical documentation channels, and local-first data specifications:
+
+- **Source Code & Web Application Logic (HTML, JavaScript, CSS):** Dual-licensed under the [MIT License](LICENSE) and [Apache 2.0 License](LICENSE-APACHE). Users may choose either license at their option.
+- **Documentation & Technical Guides:** Licensed under [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+- **BEJSON & Data Format Specifications:** Placed in the [Public Domain (CC0 1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/) for unrestricted ecosystem adoption and zero-lock-in integration.
+
+**Maintainer & Copyright:**  
+© 2026 Elton Boehnen · [boehnenelton2024@gmail.com](mailto:boehnenelton2024@gmail.com) · [boehnenelton2024.pages.dev](https://boehnenelton2024.pages.dev) · [github.com/boehnenelton](https://github.com/boehnenelton)
 
 ---
 
