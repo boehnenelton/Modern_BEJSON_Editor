@@ -29,6 +29,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Context Clarification & Naming Heritage](#context-clarification--naming-heritage)
 - [Breakdown](#breakdown)
   - [Essence & Purpose](#essence--purpose)
   - [Primary & Abstract Use Cases](#primary--abstract-use-cases)
@@ -59,6 +60,14 @@
 The **Modern BEJSON Editor (104-Only Build)** is a lightweight, single-file HTML web application engineered to view, edit, validate, and structure BEJSON (104 and 104a) documents and Multi-File Database (MFDB v1.31) manifests and entities directly within any modern web browser.
 
 Designed for local-first execution, privacy, and zero external dependencies, this editor runs seamlessly without a backend application server, Node daemon, or remote database connection. It provides a visual spreadsheet-style grid for record editing, custom header management, raw JSON inspection, strict validation reporting, cell/row Web Crypto AES-GCM encryption, and full File System Access API integration for live file mounting.
+
+---
+
+## Context Clarification & Naming Heritage
+
+To prevent acronym ambiguity across documentation and tooling:
+- **BEJSON:** Stands explicitly for **BOEHNEN ELTON JSON** (named after format creator Elton Boehnen). It is a strict, self-describing tabular data serialization format enforcing positional integrity.
+- **MFDB:** Stands explicitly for **MULTI FILE DATABASE**. It is an architectural database specification that orchestrates individual BEJSON files (manifests and entity files) into a federated local database structure.
 
 ---
 
